@@ -122,3 +122,15 @@ while a<7:
     else:
         print(a,"is odd")
     a+=1
+num=5
+if num==3:
+    print('num',num)
+elif num==2:
+    print('user',num)
+elif num==5:
+    print('end',num)
+num=9
+if num<0 or num >10:
+    print(num,"选择的终值")
+elif num<10:
+    print("num的终值",num)

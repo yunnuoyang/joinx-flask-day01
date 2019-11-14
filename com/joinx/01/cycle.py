@@ -27,7 +27,7 @@ while var < 5:
     print(var)
     var += 1
     #num -= 1
-# for 循环语句
+# # for 循环语句
 for letter in 'Python':
     print('当前字母', letter)
 fruits=['banana','apple','mango']
